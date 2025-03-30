@@ -23,6 +23,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra":{
+      "clerkPublishableKey": "pk_test_ZW5hYmxlZC1hbW9lYmEtNjcuY2xlcmsuYWNjb3VudHMuZGV2JA"
     }
   }
 }
